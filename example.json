@@ -1,0 +1,21 @@
+{
+    "name": "John Doe",
+    "age": 30,
+    "is_student": false,
+    "courses": [
+        {
+            "name": "Math",
+            "grade": "A"
+        },
+        {
+            "name": "Physics",
+            "grade": "B+"
+        }
+    ],
+    "address": {
+        "street": "123 Main St",
+        "city": "Anytown",
+        "zip": "12345"
+    }
+}
+
